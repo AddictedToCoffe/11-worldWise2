@@ -1,0 +1,19 @@
+/* We need to define class names or elements in class( .nav ul.). We shouldnt use elements alone because instedad of working on component they work at all site */
+
+.nav {
+  background-color: orange;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav :global(.active) {
+  background-color: green;
+}
+
+:global(.test) {
+  background-color: red;
+}
