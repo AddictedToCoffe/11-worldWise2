@@ -35,6 +35,42 @@
         "lng": "-0.9600185854304489"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Sot de Chera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T12:25:54.602Z",
+      "notes": "sda",
+      "position": {
+        "lat": "39.63573739505939",
+        "lng": "-0.9375334795588721"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Dabie",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-11-17T12:26:58.544Z",
+      "notes": "Piekna przygoda",
+      "position": {
+        "lat": "52.07753157841626",
+        "lng": "18.79033139651671"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Kaltennordheim",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-11-17T12:27:10.572Z",
+      "notes": "Tutaj tez bylem",
+      "position": {
+        "lat": "50.622060193053976",
+        "lng": "10.156059222834704"
+      },
+      "id": 98443202
     }
   ]
 }

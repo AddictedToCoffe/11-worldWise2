@@ -6,7 +6,8 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://pickled-scarlet-stegosaurus.glitch.me";
+// const BASE_URL = "http://localhost:9000";
 const CitiesContext = createContext();
 
 const initialState = {
